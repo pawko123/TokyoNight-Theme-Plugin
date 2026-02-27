@@ -1,6 +1,6 @@
-# TokyoNight-Theme-Plugin
+# TokyoNightThemePlugin
 
-![Build](https://github.com/pawko123/TokyoNight-Theme-Plugin/workflows/Build/badge.svg)
+![Build](https://github.com/pawko123/TokyoNightThemePlugin/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID)
 
@@ -29,7 +29,7 @@ To keep everything working, do not remove `<!-- ... -->` sections.
 
 - Using the IDE built-in plugin system:
 
-  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "TokyoNight-Theme-Plugin"</kbd> >
+  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "TokyoNightThemePlugin"</kbd> >
   <kbd>Install</kbd>
 
 - Using JetBrains Marketplace:
@@ -41,7 +41,7 @@ To keep everything working, do not remove `<!-- ... -->` sections.
 
 - Manually:
 
-  Download the [latest release](https://github.com/pawko123/TokyoNight-Theme-Plugin/releases/latest) and install it manually using
+  Download the [latest release](https://github.com/pawko123/TokyoNightThemePlugin/releases/latest) and install it manually using
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>⚙️</kbd> > <kbd>Install plugin from disk...</kbd>
 
 

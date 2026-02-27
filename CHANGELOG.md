@@ -1,6 +1,6 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# TokyoNight-Theme-Plugin Changelog
+# TokyoNightThemePlugin Changelog
 
 ## [Unreleased]
 ### Added
