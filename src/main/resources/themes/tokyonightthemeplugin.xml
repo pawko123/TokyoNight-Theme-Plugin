@@ -1,8 +1,8 @@
 <scheme name="Andromeda TokyoNight" version="142" parent_scheme="Darcula">
     <option name="FONT_SCALE" value="1.0" />
     <metaInfo>
-        <property name="ide">CLion</property>
-        <property name="ideVersion">2025.3.3.0.0</property>
+        <property name="ide">DataGrip</property>
+        <property name="ideVersion">2025.3.5.0.0</property>
     </metaInfo>
     <option name="LINE_SPACING" value="1.0" />
     <option name="EDITOR_FONT_SIZE" value="13" />
@@ -746,6 +746,28 @@
             <value>
                 <option name="BACKGROUND" value="1f2335" />
                 <option name="ERROR_STRIPE_COLOR" value="7dcfff" />
+            </value>
+        </option>
+        <option name="SQL_BAD_CHARACTER">
+            <value>
+                <option name="FOREGROUND" value="f7768e" />
+                <option name="EFFECT_COLOR" value="f7768e" />
+                <option name="EFFECT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="SQL_COLUMN">
+            <value>
+                <option name="FOREGROUND" value="e0af68" />
+            </value>
+        </option>
+        <option name="SQL_EXTERNAL_TOOL">
+            <value>
+                <option name="BACKGROUND" value="364135" />
+            </value>
+        </option>
+        <option name="SQL_TABLE">
+            <value>
+                <option name="FOREGROUND" value="e0af68" />
             </value>
         </option>
         <option name="STATIC_FIELD_ATTRIBUTES">
