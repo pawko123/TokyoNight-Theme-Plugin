@@ -1,8 +1,8 @@
 <scheme name="Andromeda TokyoNight" version="142" parent_scheme="Darcula">
     <option name="FONT_SCALE" value="1.0" />
     <metaInfo>
-        <property name="ide">DataGrip</property>
-        <property name="ideVersion">2025.3.5.0.0</property>
+        <property name="ide">idea</property>
+        <property name="ideVersion">2025.3.3.0.0</property>
     </metaInfo>
     <option name="LINE_SPACING" value="1.0" />
     <option name="EDITOR_FONT_SIZE" value="13" />
@@ -368,6 +368,16 @@
             <value>
                 <option name="BACKGROUND" value="43698d" />
                 <option name="ERROR_STRIPE_COLOR" value="89ddff" />
+            </value>
+        </option>
+        <option name="DOCKER_NUMBER">
+            <value>
+                <option name="FOREGROUND" value="ff9e64" />
+            </value>
+        </option>
+        <option name="DOCKER_VARIABLE">
+            <value>
+                <option name="FOREGROUND" value="e0af68" />
             </value>
         </option>
         <option name="DOC_CODE_BLOCK">
