@@ -1,7 +1,7 @@
 <scheme name="Andromeda TokyoNight" version="142" parent_scheme="Darcula">
     <option name="FONT_SCALE" value="1.0" />
     <metaInfo>
-        <property name="ide">idea</property>
+        <property name="ide">CLion</property>
         <property name="ideVersion">2025.3.3.0.0</property>
     </metaInfo>
     <option name="LINE_SPACING" value="1.0" />
@@ -660,6 +660,21 @@
             <value>
                 <option name="FOREGROUND" value="f7768e" />
                 <option name="EFFECT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="OC.STRUCT_FIELD">
+            <value>
+                <option name="FOREGROUND" value="e0af68" />
+            </value>
+        </option>
+        <option name="OC.STRUCT_LIKE">
+            <value>
+                <option name="FOREGROUND" value="89ddff" />
+            </value>
+        </option>
+        <option name="OC.TYPEDEF">
+            <value>
+                <option name="FOREGROUND" value="89ddff" />
             </value>
         </option>
         <option name="PROPERTIES.INVALID_STRING_ESCAPE">
