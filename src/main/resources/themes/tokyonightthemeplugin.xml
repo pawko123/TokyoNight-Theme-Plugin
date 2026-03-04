@@ -1,7 +1,7 @@
 <scheme name="Andromeda TokyoNight" version="142" parent_scheme="Darcula">
     <option name="FONT_SCALE" value="1.0" />
     <metaInfo>
-        <property name="ide">idea</property>
+        <property name="ide">Python</property>
         <property name="ideVersion">2025.3.3.0.0</property>
     </metaInfo>
     <option name="LINE_SPACING" value="1.0" />
@@ -13,10 +13,14 @@
         <option name="ANNOTATIONS_COLOR" value="E9E9ED" />
         <option name="CARET_COLOR" value="89DDFF" />
         <option name="CARET_ROW_COLOR" value="282C4A" />
+        <option name="CONSOLE_BACKGROUND_KEY" value="" />
         <option name="DELETED_LINES_COLOR" value="F7768E" />
         <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="9ECE6A" />
         <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="F7768E" />
         <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="89DDFF" />
+        <option name="JUPYTER.CARET_ROW_COLOR" value="" />
+        <option name="JUPYTER.CELL_STRIPE_SELECTED_COLOR" value="89DDFF" />
+        <option name="JUPYTER.CODE_CELL_BACKGROUND" value="252526" />
         <option name="MODIFIED_LINES_COLOR" value="89DDFF" />
         <option name="VCS_ANNOTATIONS_COLOR_1" value="3B8DFF" />
         <option name="VCS_ANNOTATIONS_COLOR_2" value="3370D4" />
@@ -215,7 +219,9 @@
         </option>
         <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
         <option name="DEFAULT_INSTANCE_FIELD">
-            <value />
+            <value>
+                <option name="FOREGROUND" value="e0af68" />
+            </value>
         </option>
         <option name="DEFAULT_INSTANCE_METHOD">
             <value>
@@ -279,7 +285,12 @@
                 <option name="FOREGROUND" value="c8d3f5" />
             </value>
         </option>
-        <option name="DEFAULT_STATIC_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
+        <option name="DEFAULT_STATIC_FIELD">
+            <value>
+                <option name="FOREGROUND" value="e0af68" />
+                <option name="FONT_TYPE" value="1" />
+            </value>
+        </option>
         <option name="DEFAULT_STATIC_METHOD">
             <value>
                 <option name="FOREGROUND" value="7aa2f7" />
